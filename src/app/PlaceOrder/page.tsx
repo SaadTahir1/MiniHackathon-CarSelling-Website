@@ -3,7 +3,7 @@ export default function page() {
     return(
         <div>
             <img 
-             src="ThankYou.PNG"
+             src="Thankyou.PNG"
              alt="Thank You"
              className="flex mx-auto justify-center" 
               />
